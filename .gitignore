@@ -3,6 +3,9 @@
 #!*/
 #!*.*
 
+# Mac files
+*.DS_Store
+
 # log files
 *.src
 *.txt
